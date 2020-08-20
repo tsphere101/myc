@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593971577 source:c:\users\topfee\desktop\myc\projectilecalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

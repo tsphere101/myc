@@ -1,0 +1,14 @@
+//มา 4 จ่าย 3
+#include <stdio.h>
+#include <math.h>
+int main()
+{
+    double price = 249.0;
+    int people;
+    scanf("%d",&people);
+
+    int remainder = (people%4);
+    double totalPrice = people*price - price*floor(people/4);
+    printf("%.0f", totalPrice);
+    return 0;
+}

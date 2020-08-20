@@ -1,0 +1,12 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 4488-2CF1
+
+ Directory of C:\Users\Topfee\Desktop\myc\TSphere\bin
+
+07/05/2020  05:07 PM    <DIR>          .
+07/05/2020  05:07 PM    <DIR>          ..
+07/05/2020  05:01 PM    <DIR>          Debug
+07/05/2020  05:01 PM    <DIR>          Release
+07/05/2020  05:07 PM                 0 whr.txt
+               1 File(s)              0 bytes
+               4 Dir(s)  403,582,484,480 bytes free

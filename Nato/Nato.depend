@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594375148 source:c:\users\topfee\desktop\myc\nato\main.c
+	<stdio.h>
+	<ctype.h>
+

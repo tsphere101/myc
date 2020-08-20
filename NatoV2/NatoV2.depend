@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594381304 source:c:\users\topfee\desktop\myc\natov2\natov2.c
+	<stdio.h>
+	<ctype.h>
+
