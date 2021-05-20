@@ -1,0 +1,8 @@
+isPrime(int x)
+{
+int p =2;
+while (x%p != 0)
+{p++;}
+if(p == x) {return 1;}
+else return 0;
+}

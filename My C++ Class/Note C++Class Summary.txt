@@ -1,0 +1,23 @@
+Scope is the region of code that has access to an element;
+C++ function are usually split to make code more modular
+{
+	The declaration in header file (.hpp)
+	The definition in another .cpp file
+}
+//Program with multiple .cpp files need to be linked at compile time
+// Header files must be included in the file with main():
+#include "fns.hpp"
+//Default argrument can be add in the parameter over the header files
+// Overload funtions so that they can handle multiple type of agrument data type
+// Template enables function to behave the same with different datatypes of parameters;
+
+Classes
+
+Classes are user_defined types.
+Obtect are instances of classes.
+Class member are the data attributes and function inside of a class.
+Creating a new object from class is called instantiation.
+Class members can be designated as either private or public - they are private by default.
+Creating a constructor to instantiate objects in a particular way.
+
+
